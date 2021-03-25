@@ -1,0 +1,16 @@
+C:\fernand\C#\morpion\bin\Debug\net5.0\morpion.exe
+C:\fernand\C#\morpion\bin\Debug\net5.0\morpion.deps.json
+C:\fernand\C#\morpion\bin\Debug\net5.0\morpion.runtimeconfig.json
+C:\fernand\C#\morpion\bin\Debug\net5.0\morpion.runtimeconfig.dev.json
+C:\fernand\C#\morpion\bin\Debug\net5.0\morpion.dll
+C:\fernand\C#\morpion\bin\Debug\net5.0\ref\morpion.dll
+C:\fernand\C#\morpion\bin\Debug\net5.0\morpion.pdb
+C:\fernand\C#\morpion\obj\Debug\net5.0\morpion.csprojAssemblyReference.cache
+C:\fernand\C#\morpion\obj\Debug\net5.0\morpion.GeneratedMSBuildEditorConfig.editorconfig
+C:\fernand\C#\morpion\obj\Debug\net5.0\morpion.AssemblyInfoInputs.cache
+C:\fernand\C#\morpion\obj\Debug\net5.0\morpion.AssemblyInfo.cs
+C:\fernand\C#\morpion\obj\Debug\net5.0\morpion.csproj.CoreCompileInputs.cache
+C:\fernand\C#\morpion\obj\Debug\net5.0\morpion.dll
+C:\fernand\C#\morpion\obj\Debug\net5.0\ref\morpion.dll
+C:\fernand\C#\morpion\obj\Debug\net5.0\morpion.pdb
+C:\fernand\C#\morpion\obj\Debug\net5.0\morpion.genruntimeconfig.cache
